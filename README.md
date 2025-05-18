@@ -33,3 +33,13 @@ Data logging to a file or database.
 Email or SMS alerts.
 Basic anomaly detection using AI.
 Interactive GUI dashboard with live status indicators.
+
+The AI-Powered Structural Health Monitoring (SHM) System is designed to enhance 
+infrastructure safety by using advanced AI algorithms, sensor networks, and IoT technology 
+to monitor and assess the structural integrity of buildings and bridges in real-time. The 
+system continuously collects data such as strain, vibration, temperature, and displacement, 
+analyzing it with machine learning models to detect anomalies and potential failures. This 
+report documents the final project phase, including system demonstration, technical 
+documentation, performance evaluation, source code overview, and testing outcomes. 
+Visual documentation, including architecture diagrams and code snapshots, are also 
+provided to showcase the system’s architecture and functionality
